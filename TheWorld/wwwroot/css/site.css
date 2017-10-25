@@ -1,7 +1,7 @@
-﻿body {
+﻿/*body {
     font-family: sans-serif;
     font-size: 14px;
-    margin:0;
+    margin: 0;
 }
 
 label {
@@ -23,11 +23,11 @@ input[type=text], input[type=password], textarea {
     background-color: #222;
     color: #eee;
     padding: 8px 5px;
-    position:fixed;
-    bottom:0;
-    width:100%;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
-
+    */
 .headshot {
     max-width: 50px;
     border: 1px solid #222;
@@ -54,9 +54,20 @@ input[type=text], input[type=password], textarea {
     width: 250px;
     overflow: hidden;
     left: 0;
+    transition: left ease .25s;
 }
 
-#wrapper{
-    margin:0 0 0 250px;
+    #sidebar.hide-sidebar {
+        left: -250px;
+        transition: left ease .25s;
+    }
 
+#wrapper {
+    margin: 0 0 0 250px;
+    transition: margin-left ease .25s;
 }
+
+    #wrapper.hide-sidebar {
+        margin-left: 0;
+        transition: margin-left ease .25s;
+    }

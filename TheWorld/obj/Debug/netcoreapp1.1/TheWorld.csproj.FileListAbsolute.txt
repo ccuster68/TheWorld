@@ -9,3 +9,14 @@ C:\Users\charles.custer\Documents\Visual Studio 2017\Projects\TheWorld\TheWorld\
 C:\Users\charles.custer\Documents\Visual Studio 2017\Projects\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfo.cs
 C:\Users\charles.custer\Documents\Visual Studio 2017\Projects\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.dll
 C:\Users\charles.custer\Documents\Visual Studio 2017\Projects\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.pdb
+D:\git\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.deps.json
+D:\git\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.json
+D:\git\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.dev.json
+D:\git\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.dll
+D:\git\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.pdb
+D:\git\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.csprojResolveAssemblyReference.cache
+D:\git\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.csproj.CoreCompileInputs.cache
+D:\git\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfoInputs.cache
+D:\git\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfo.cs
+D:\git\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.dll
+D:\git\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.pdb
