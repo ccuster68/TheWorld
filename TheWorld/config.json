@@ -1,5 +1,8 @@
 {
   "MailSettings": {
     "ToAddress": "charles@custerfamily.com"
+  },
+  "ConnectionStrings": {
+    "WorldContextConnection":  "Server=(localdb)\\MSSQLLocalDB;Database=TheWorldDb;Trusted_Connection=true;MultipleActiveResultSets=true;"
   }
 }
