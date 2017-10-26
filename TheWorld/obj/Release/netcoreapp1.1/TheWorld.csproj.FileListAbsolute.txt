@@ -1,0 +1,11 @@
+D:\git\TheWorld\TheWorld\bin\Release\netcoreapp1.1\TheWorld.deps.json
+D:\git\TheWorld\TheWorld\bin\Release\netcoreapp1.1\TheWorld.runtimeconfig.json
+D:\git\TheWorld\TheWorld\bin\Release\netcoreapp1.1\TheWorld.runtimeconfig.dev.json
+D:\git\TheWorld\TheWorld\bin\Release\netcoreapp1.1\TheWorld.dll
+D:\git\TheWorld\TheWorld\bin\Release\netcoreapp1.1\TheWorld.pdb
+D:\git\TheWorld\TheWorld\obj\Release\netcoreapp1.1\TheWorld.csprojResolveAssemblyReference.cache
+D:\git\TheWorld\TheWorld\obj\Release\netcoreapp1.1\TheWorld.csproj.CoreCompileInputs.cache
+D:\git\TheWorld\TheWorld\obj\Release\netcoreapp1.1\TheWorld.AssemblyInfoInputs.cache
+D:\git\TheWorld\TheWorld\obj\Release\netcoreapp1.1\TheWorld.AssemblyInfo.cs
+D:\git\TheWorld\TheWorld\obj\Release\netcoreapp1.1\TheWorld.dll
+D:\git\TheWorld\TheWorld\obj\Release\netcoreapp1.1\TheWorld.pdb
