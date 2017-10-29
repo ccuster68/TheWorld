@@ -20,3 +20,14 @@ D:\git\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfoInputs.cac
 D:\git\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfo.cs
 D:\git\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.dll
 D:\git\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.pdb
+E:\GIT\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.deps.json
+E:\GIT\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.json
+E:\GIT\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.dev.json
+E:\GIT\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.dll
+E:\GIT\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.pdb
+E:\GIT\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.csprojResolveAssemblyReference.cache
+E:\GIT\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.csproj.CoreCompileInputs.cache
+E:\GIT\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfoInputs.cache
+E:\GIT\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfo.cs
+E:\GIT\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.dll
+E:\GIT\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.pdb
